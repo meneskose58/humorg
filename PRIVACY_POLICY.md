@@ -1,6 +1,6 @@
 # Privacy Policy for Humorg
 
-**Last updated:** 2024-02-17
+**Last updated:** 2026-02-17
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you use the **Humorg** application (the "Service").
 
@@ -49,11 +49,24 @@ We may send you push notifications. You can opt-out of receiving these notificat
 
 Our Service is not directed to anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.
 
-## 7. Changes to This Privacy Policy
+## 8. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
 
-## 8. Contact Us
+## 9. Account Deletion
+
+You have the right to request the deletion of your account and all associated data at any time. Upon receiving your request, we will permanently delete the following:
+
+- Your account credentials and profile information (name, email)
+- All data you have created within the application (tasks, expenses, announcements, investments, budgets)
+- Your device tokens used for push notifications
+- Your organization membership data
+
+To request account deletion, send an email to **eneskosebus@gmail.com** with the subject line **"Account Deletion Request"** from the email address associated with your account. We will process your request within 30 days and confirm deletion via email.
+
+Please note that data you contributed to shared spaces (e.g., organization expenses, tasks assigned to others) may be anonymized rather than deleted to preserve the integrity of other members' records.
+
+## 10. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
